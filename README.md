@@ -138,5 +138,5 @@ This project is licensed under the MIT License.
 - **Tailwind CSS**: For the responsive, modern interface.
 
 ---
-*Built with ❤️ by Sohaib*  
-*Last updated: June 2025*
+*Built with Ijaz Tufail*  
+
